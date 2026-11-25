@@ -1,0 +1,1 @@
+Fixed: sleep now ships with an off switch; users report waking up rested instead of rehearsing conversations from 2019.
